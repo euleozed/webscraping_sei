@@ -12,7 +12,7 @@ Este projeto utiliza a biblioteca Selenium para automatizar a coleta de dados de
   - chromedriver-autoinstaller
 - **Navegador Edge** e **WebDriver do Edge**
 - **Ambiente Windows** com o seguinte diretório configurado para downloads:
-  - `C:\Users\<seu_usuario>\OneDrive - Minha Empresa\Aplicativos\gecomp_datalake\downloads`
+  - r'downloads'
 
 ## Instalação
 
@@ -45,8 +45,8 @@ O arquivo `numeros_processos.csv` deve conter a coluna:
 Exemplo:
 ```csv
 numero_processo
-1234567890
-0987654321
+xxxx.xxxxxx/xxxx-xx
+
 ...
 ```
 
